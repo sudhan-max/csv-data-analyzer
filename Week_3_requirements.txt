@@ -1,0 +1,2 @@
+# No additional packages required
+# This Week 3 project uses base R functions only
